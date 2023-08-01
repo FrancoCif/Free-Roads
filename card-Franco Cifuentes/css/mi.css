@@ -1,0 +1,108 @@
+#nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    margin-bottom: 500px;
+    font-family: 'Sunflower', sans-serif
+  }
+  
+  body{
+    margin-top: 100px;
+    background-image: url('/img/background.jpg');
+   background-size: cover;
+   background-position: center center;
+   ;
+  
+  }
+  h3{
+    color: aliceblue;
+  }
+
+  .form-select{
+    border-radius: 10px;
+  }
+  option{
+    border-radius: 50px;
+  }
+
+  footer{
+    background-color: rgb(9, 6, 10);
+  }
+  .footer{
+    width: 500px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  main{
+    height: 1000px;
+    }
+  .cardcolor1{
+    background-color: rgb(33, 35, 34);
+    color: antiquewhite;
+  }
+  #inicio{
+    background-color: black;
+    background-image: url('/img/fondo-inicio.jfif');
+    background-size: cover;
+    background-position: center center;
+    opacity: 100%;
+    margin-top: 70px;
+  }
+  #divalto{
+    background-color: black;
+    opacity: 80%;
+    color: blanchedalmond;
+    font-family: 'Sunflower', sans-serif;
+   
+  }
+  #tienda{
+    color: rgb(220, 217, 214);
+  }
+  #logo{
+    width: 670px;
+    height: 460px;
+  }
+  .logos{
+    height: 23px;
+    width: 27px;
+  }
+  #nav1{
+    font-family: 'Sunflower', sans-serif
+  }
+
+  label{
+    font-family: 'Sunflower', sans-serif;
+    color: aliceblue;
+  }
+
+.form-text{
+  color: rgb(191, 190, 190);
+}
+#ver{
+  width: 110px;
+}
+#mainlista{
+  margin-top: 100px;
+}
+
+/*.imagen{
+  -webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.card{
+  overflow:hidden;
+}*/
+
+.col-4:hover .card {-webkit-transform:scale(1.3);transform:scale(0.9);}
+.col-4 {overflow:hidden;}
+
+
+.p-3:hover .btn {-webkit-transform:scale(1.3);transform:scale(0.8);}
+.p-3 {overflow:hidden;}
+
+/*falta agregar que todos los card tengan misma altura*/
+
+
+  
+ 
